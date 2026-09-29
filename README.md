@@ -89,3 +89,16 @@ market-risk-var/
 │   └── var_portfolio.py
 ├── README.md
 └── requirements.txt
+
+
+
+## Skills Demonstrated
+
+- Financial data analysis with Python
+- Portfolio return calculation
+- Historical, Parametric and Monte Carlo VaR
+- Expected Shortfall / CVaR
+- Backtesting and model validation
+- Statistical testing with the Kupiec test
+- Data visualization with Matplotlib
+- Clean project structuring and reproducible Python environment
